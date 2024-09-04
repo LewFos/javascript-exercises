@@ -1,7 +1,7 @@
 const helloWorld = require('./helloWorld');
 
-describe('Hello World', function() {
-  test('says "Hello, World!"', function() {
-    expect(helloWorld()).toEqual('Hello, World!');
+describe('Fuck you', function() {
+  test('says "Fuck you"', function() {
+    expect(helloWorld()).toEqual('Fuck you');
   });
 });
